@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Suleman984 and I am a Computer Science student trying to learn some skills.
-- 👀 I’m interested in Web Developing.
-- 🌱 I’m currently learning HTML CSS and JS and after learning these, I would like to work on Angular JS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 For contact, just a send a mail at sulemanefc@gmail.com.
+- 👋 Hi, I’m @Suleman984 — a Software Engineer with experience in both frontend and backend technologies.
+- 👨‍💻 I’ve worked on building web applications, REST APIs, and also developed automation scripts to streamline tasks.
+- 🌱 Currently expanding my skills in modern web frameworks and automation tools.
+- 🤝 I’m open to collaborating on web development projects, full-stack applications, or anything innovative!
+- 📫 Feel free to reach out via email at: sulemanefc@gmail.com
 
 <!---
 Suleman984/Suleman984 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
